@@ -26,5 +26,3 @@ let rayon = 4;
 let circonference = 2 * PI * rayon;
 
 console.log("La circonférence d'un cercle ayant un rayon de 4cm est : ", circonference);
-
-//
