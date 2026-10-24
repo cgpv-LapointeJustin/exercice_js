@@ -1,3 +1,4 @@
+/*
 //ex 01
 var age = 20;
 
@@ -113,4 +114,6 @@ switch (mois) {
     default:
      console.log("invalide!");
 }
+
+*/
 
